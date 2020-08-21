@@ -32,5 +32,5 @@
       <option name="XML_ATTRIBUTE" value="false" />
     </context>
   </template>
-  <template name="&lt;abbreviation&gt;" value="ddd" toReformat="false" toShortenFQNames="true" />
+  <template name="&lt;abbreviation&gt;" value="ddd" description="" toReformat="false" toShortenFQNames="true" />
 </templateSet>
