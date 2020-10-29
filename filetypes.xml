@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".name" type="PLAIN_TEXT" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_test" type="PLAIN_TEXT" />
       <mapping ext="migration" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
